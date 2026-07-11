@@ -377,34 +377,7 @@ Developing production-ready software applications focused on AI, Cloud Computing
 
 
 
-  - Cloud Engineering
-  - Open Source Collaboration
-  - Research Opportunities
 
-
--Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/manasvjain/microdoppler-ai-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasvjain&repo=microdoppler-ai-dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/manasvjain/genomic-mini-llm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasvjain&repo=genomic-mini-llm&theme=tokyonight&hide_border=true"/>
-</a>
-
-<br>
-
-<a href="https://github.com/manasvjain/gcp-data-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasvjain&repo=gcp-data-pipeline&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/manasvjain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=manasvjain&repo=YOUR_BEST_REPO&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
