@@ -29,13 +29,7 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
 
-![](https://komarev.com/ghpvc/?username=manasvjain&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/manasvjain?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/manasvjain?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
 
@@ -383,124 +377,7 @@ Developing production-ready software applications focused on AI, Cloud Computing
 
 ## AWS (Currently Learning)
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-## Oracle (Currently Learning)
-
-<img src="https://img.shields.io/badge/Oracle-OCI_Foundations-In_Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</div>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/manasvjain">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/manasvjain">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/manasvjain">
-<img src="https://img.shields.io/badge/HackerRank-Algorithms-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/manasvjain">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasvjain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvjain&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=manasvjain&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manasvjain&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasvjain&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manasvjain/manasvjain/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **GitHub Action for Snake Animation**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-          github_user_name: manasvjain
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 # Current Focus
 
