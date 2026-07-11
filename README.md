@@ -375,47 +375,14 @@ Developing production-ready software applications focused on AI, Cloud Computing
 
 <img src="https://img.shields.io/badge/Cisco-CCNAv7_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-## AWS (Currently Learning)
 
 
-
-# Current Focus
-
-```yaml
-name: Manasv Jain
-
-currently_learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - Google Cloud Platform
-  - MLOps
-  - Kubernetes
-  - Distributed Systems
-  - Large Language Models
-
-currently_building:
-  - Micro-Doppler Target Classification System
-  - Scalable Cloud Data Pipeline on GCP
-  - AI-powered Full Stack Applications
-
-exploring:
-  - Agentic AI
-  - RAG Systems
-  - Multi-Agent Workflows
-  - Vector Databases
-  - Cloud Native Architecture
-
-open_to:
-  - Software Engineering Internship
-  - AI/ML Internship
   - Cloud Engineering
   - Open Source Collaboration
   - Research Opportunities
-```
 
----
 
-# Featured Repositories
+-Featured Repositories
 
 <div align="center">
 
